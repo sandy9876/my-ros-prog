@@ -1,7 +1,7 @@
 # parameters
 ARG REPO_NAME="my-ros-prog"
 ARG DESCRIPTION="<DESCRIPTION_HERE>"
-ARG MAINTAINER="SAND-SC (sandeshchiploonkar@gmail.com)"
+ARG MAINTAINER="<YOUR_FULL_NAME> (<YOUR_EMAIL_ADDRESS>)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
 
